@@ -1,17 +1,20 @@
 html {
-line-height: 1.5;
-box-sizing: border-box;
-background-color: #f0eee8;
-font-family: Georgia, serif;
+  line-height: 1.5;
+  box-sizing: border-box;
+  background-color: #f0eee8;
+  font-family: Georgia, serif;
 }
 
 *, *::before, *::after {
-box-sizing: inherit;
+  box-sizing: inherit;
 }
 
 h2 {
+  margin: 0;
   font-family: Dosis, sans-serif;
   font-size: 1.5rem;
+  color: #512200;
+  font-weight: bold;
 }
 
 .link-card {
